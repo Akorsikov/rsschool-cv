@@ -27,7 +27,7 @@ function highAndLow(numbers){
 highAndLow("1 9 3 4 -5"); // return "9 -5"
 ```
 ## Work experience ##
-[Portfolio](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/portfolio/) (educational project)
+[Portfolio](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/portfolio/) (_educational project_)
 
 [Image-gallery](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/image-gallery/) (educational project)
 
