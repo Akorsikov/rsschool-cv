@@ -29,9 +29,9 @@ highAndLow("1 9 3 4 -5"); // return "9 -5"
 ## Work experience ##
 [Portfolio](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/portfolio/) (_educational project_)
 
-[Image-gallery](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/image-gallery/) (_educational project_)
+[Image Gallery](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/image-gallery/) (_educational project_)
 
-[Memory Card](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/memory-game/) (educational project)
+[Memory Card](https://rolling-scopes-school.github.io/akorsikov-JSFEPRESCHOOL/memory-game/) (_educational project_)
 
 ## Education ##
 - Novocherkassk Polytechnic Institute, Faculty of System Engineering and Robotics: specialty computing machines, complexes and networks 1993.
